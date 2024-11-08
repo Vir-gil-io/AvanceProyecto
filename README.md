@@ -14,6 +14,8 @@ https://drive.google.com/drive/folders/1o0vlP4PqTZQKvN10XSl61lfQM0TIBGoV
 De Josué Alejandro Esparza Padilla y Gilberto Fabián Correa González
 ## Avance del proyecto navideño
 
+https://drive.google.com/drive/folders/10E4QJAhfr6h4aKZ7ErOXSpJGXSQqdGfQ?usp=sharing
+
 ## Evidencias del curso de Python
 
 Evidencias_GilbertoCorrea: https://drive.google.com/drive/folders/1sbgISuhw-EySF8_LtcJCXBCyXzHf3esC?usp=sharing
