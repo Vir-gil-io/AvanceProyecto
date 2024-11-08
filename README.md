@@ -1,5 +1,6 @@
 # AvanceProyecto
 
+Por: Esparza Padilla Josué Alejandro y Correa González Gilberto Fabián.
 
 ## Enlace de Ejercicio_Practico_Integral: 
 
@@ -22,6 +23,12 @@ Evidencias_GilbertoCorrea: https://drive.google.com/drive/folders/1sbgISuhw-EySF
 
 Evidencias_Josué Esparza : https://drive.google.com/file/d/1sJDF4IDt8lZW59jzuMHiWaUYZotvDXUg/view?usp=sharing
 
+## Aplicación de Conocimientos de Python
+
+De acuerdo a las lecciones y conocimientos aprendidos en el curso de Python Essentials de Netacad, lo que podríamos aplicar para esta unidad sería la rama que tiene llamada "Micropython", la cuál nos sirve para programar los comportamientos que tendrán los componentes conectados a la ESP32 en el proyecto navideño, poniendo ciclos, bucles y estructuras de control ya sean selectivas o de opción múltiple.
+
 ## Coevaluación
 
 Gilberto hizo un buen trabajo en todo el proyecto. Solamente falta que hablemos más.
+
+Josué realizó un buen trabajo en cuanto a las conexiones que le correspondieron, así como en el código que implementó para los componentes, aunque cabe resaltar que un aspecto de mejora es la comunicación constante.
