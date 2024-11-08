@@ -16,6 +16,6 @@ De Josué Alejandro Esparza Padilla y Gilberto Fabián Correa González
 
 ## Evidencias del curso de Python
 
-Avances_GilbertoCorrea: https://drive.google.com/drive/folders/1sbgISuhw-EySF8_LtcJCXBCyXzHf3esC?usp=sharing
+Evidencias_GilbertoCorrea: https://drive.google.com/drive/folders/1sbgISuhw-EySF8_LtcJCXBCyXzHf3esC?usp=sharing
 
 ## Coevaluación
