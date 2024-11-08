@@ -18,4 +18,8 @@ De Josué Alejandro Esparza Padilla y Gilberto Fabián Correa González
 
 Evidencias_GilbertoCorrea: https://drive.google.com/drive/folders/1sbgISuhw-EySF8_LtcJCXBCyXzHf3esC?usp=sharing
 
+Evidencias_Josué Esparza : https://drive.google.com/file/d/1sJDF4IDt8lZW59jzuMHiWaUYZotvDXUg/view?usp=sharing
+
 ## Coevaluación
+
+Gilberto hizo un buen trabajo en todo el proyecto. Solamente falta que hablemos más.
