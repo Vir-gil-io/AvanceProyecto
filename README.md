@@ -12,3 +12,5 @@ De Josué Alejandro Esparza Padilla y Gilberto Fabián Correa González
 ## Avance del proyecto navideño
 
 ## Evidencias del curso de Python
+
+## Coevaluación
