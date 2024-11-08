@@ -31,5 +31,6 @@ De acuerdo a las lecciones y conocimientos aprendidos en el curso de Python Esse
 
 Gilberto hizo un buen trabajo en todo el proyecto. Solamente falta que hablemos más.
 Gilberto supo hacer las conexiones y el código correspondiente, solamente nos falta saber las librerías necesarias.
+En el examen final tuvimos casi todo bien, solamentetuvimos unos detalles porque no lo teniamos terminado todavia, pero funcionamos bien, siempre terminamo las actividades a tiempo y con los videoa ya grabados, aunque si hubo estrés pero la pareja funcionó bien.
 
-Josué realizó un buen trabajo en cuanto a las conexiones que le correspondieron, así como en el código que implementó para los componentes, aunque cabe resaltar que un aspecto de mejora es la comunicación constante.
+Josué realizó un buen trabajo en cuanto a las conexiones que le correspondieron, así como en el código que implementó para los componentes, durante la prueba integral tuvo un desempeño genial, pues casi no nos costó conectar los componentes y duramos muy poco programando el código. Aunque cabe resaltar que un aspecto de mejora es la comunicación constante, esto es visible en el avance general del proyecto, pues aunque hemos avanzado en el prototipo, aún falta bastante desarrollo en el proyecto final.
