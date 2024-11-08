@@ -30,5 +30,6 @@ De acuerdo a las lecciones y conocimientos aprendidos en el curso de Python Esse
 ## Coevaluación
 
 Gilberto hizo un buen trabajo en todo el proyecto. Solamente falta que hablemos más.
+Gilberto supo hacer las conexiones y el código correspondiente, solamente nos falta saber las librerías necesarias.
 
 Josué realizó un buen trabajo en cuanto a las conexiones que le correspondieron, así como en el código que implementó para los componentes, aunque cabe resaltar que un aspecto de mejora es la comunicación constante.
